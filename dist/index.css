@@ -1,0 +1,168 @@
+.margin-xs {
+  margin: 0.25rem;
+}
+.padding-xs {
+  padding: 0.25rem;
+}
+.margin-sm {
+  margin: 0.5rem;
+}
+.padding-sm {
+  padding: 0.5rem;
+}
+.margin-md {
+  margin: 1rem;
+}
+.padding-md {
+  padding: 1rem;
+}
+.margin-lg {
+  margin: 2rem;
+}
+.padding-lg {
+  padding: 2rem;
+}
+.margin-xl {
+  margin: 4rem;
+}
+.padding-xl {
+  padding: 4rem;
+}
+.color-blue {
+  color: #1919e6;
+}
+.background-blue {
+  background-color: #1919e6;
+}
+.text-blue {
+  color: #1919e6;
+}
+.text-hover-blue:hover {
+  color: #1919e6;
+}
+.color-red {
+  color: #e61919;
+}
+.background-red {
+  background-color: #e61919;
+}
+.text-red {
+  color: #e61919;
+}
+.text-hover-red:hover {
+  color: #e61919;
+}
+.color-yellow {
+  color: #e6e619;
+}
+.background-yellow {
+  background-color: #e6e619;
+}
+.text-yellow {
+  color: #e6e619;
+}
+.text-hover-yellow:hover {
+  color: #e6e619;
+}
+.color-green {
+  color: #19e635;
+}
+.background-green {
+  background-color: #19e635;
+}
+.text-green {
+  color: #19e635;
+}
+.text-hover-green:hover {
+  color: #19e635;
+}
+.color-orange {
+  color: #ffa600;
+}
+.background-orange {
+  background-color: #ffa600;
+}
+.text-orange {
+  color: #ffa600;
+}
+.text-hover-orange:hover {
+  color: #ffa600;
+}
+.color-purple {
+  color: #90f;
+}
+.background-purple {
+  background-color: #90f;
+}
+.text-purple {
+  color: #90f;
+}
+.text-hover-purple:hover {
+  color: #90f;
+}
+.color-gray {
+  color: gray;
+}
+.background-gray {
+  background-color: gray;
+}
+.text-gray {
+  color: gray;
+}
+.text-hover-gray:hover {
+  color: gray;
+}
+.color-black {
+  color: #000;
+}
+.background-black {
+  background-color: #000;
+}
+.text-black {
+  color: #000;
+}
+.text-hover-black:hover {
+  color: #000;
+}
+.color-white {
+  color: #fff;
+}
+.background-white {
+  background-color: #fff;
+}
+.text-white {
+  color: #fff;
+}
+.text-hover-white:hover {
+  color: #fff;
+}
+.font-size-xs {
+  font-size: 0.75rem;
+}
+.font-size-sm {
+  font-size: 1rem;
+}
+.font-size-md {
+  font-size: 1.25rem;
+}
+.font-size-lg {
+  font-size: 1.5rem;
+}
+.font-size-xl {
+  font-size: 2rem;
+}
+.font-weight-light {
+  font-weight: 300;
+}
+.font-weight-regular {
+  font-weight: 400;
+}
+.font-weight-medium {
+  font-weight: 500;
+}
+.font-weight-bold {
+  font-weight: 700;
+}
+.font-weight-extra-bold {
+  font-weight: 800;
+} /*# sourceMappingURL=index.css.map */
