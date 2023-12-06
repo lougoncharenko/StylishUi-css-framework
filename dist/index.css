@@ -398,10 +398,7 @@
 .background-blue {
   background-color: #1919e6;
 }
-.text-blue {
-  color: #1919e6;
-}
-.text-hover-blue:hover {
+.color-hover-blue:hover {
   color: #1919e6;
 }
 .color-red {
@@ -410,10 +407,7 @@
 .background-red {
   background-color: #e61919;
 }
-.text-red {
-  color: #e61919;
-}
-.text-hover-red:hover {
+.color-hover-red:hover {
   color: #e61919;
 }
 .color-yellow {
@@ -422,10 +416,7 @@
 .background-yellow {
   background-color: #e6e619;
 }
-.text-yellow {
-  color: #e6e619;
-}
-.text-hover-yellow:hover {
+.color-hover-yellow:hover {
   color: #e6e619;
 }
 .color-green {
@@ -434,10 +425,7 @@
 .background-green {
   background-color: #19e635;
 }
-.text-green {
-  color: #19e635;
-}
-.text-hover-green:hover {
+.color-hover-green:hover {
   color: #19e635;
 }
 .color-orange {
@@ -446,10 +434,7 @@
 .background-orange {
   background-color: #ffa600;
 }
-.text-orange {
-  color: #ffa600;
-}
-.text-hover-orange:hover {
+.color-hover-orange:hover {
   color: #ffa600;
 }
 .color-purple {
@@ -458,10 +443,7 @@
 .background-purple {
   background-color: #90f;
 }
-.text-purple {
-  color: #90f;
-}
-.text-hover-purple:hover {
+.color-hover-purple:hover {
   color: #90f;
 }
 .color-gray {
@@ -470,10 +452,7 @@
 .background-gray {
   background-color: gray;
 }
-.text-gray {
-  color: gray;
-}
-.text-hover-gray:hover {
+.color-hover-gray:hover {
   color: gray;
 }
 .color-black {
@@ -482,10 +461,7 @@
 .background-black {
   background-color: #000;
 }
-.text-black {
-  color: #000;
-}
-.text-hover-black:hover {
+.color-hover-black:hover {
   color: #000;
 }
 .color-white {
@@ -494,10 +470,7 @@
 .background-white {
   background-color: #fff;
 }
-.text-white {
-  color: #fff;
-}
-.text-hover-white:hover {
+.color-hover-white:hover {
   color: #fff;
 }
 .font-size-xs {

@@ -1,0 +1,56 @@
+$primary-color: #3498db;
+$secondary-color: #2ecc71;
+$error-color: #e74c3c;
+$button-padding: 10px 20px;
+$button-border-radius: 5px;
+
+.button-primary {
+  background-color: $primary-color;
+  color: white;
+  padding: $button-padding;
+  border: none;
+  border-radius: $button-border-radius;
+  cursor: pointer;
+  
+  &:hover {
+    background-color: darken($primary-color, 10%);
+  }
+
+  &:focus {
+    outline: none;
+  }
+}
+
+.button-secondary {
+  background-color: $secondary-color;
+  color: white;
+  padding: $button-padding;
+  border: none;
+  border-radius: $button-border-radius;
+  cursor: pointer;
+  
+  &:hover {
+    background-color: darken($secondary-color, 10%);
+  }
+
+  &:focus {
+    outline: none;
+  }
+}
+
+.button-error {
+    background-color: $error-color;
+    color: white;
+    padding: $button-padding;
+    border: none;
+    border-radius: $button-border-radius;
+    cursor: pointer;
+    
+    &:hover {
+      background-color: darken($error-color, 10%);
+    }
+  
+    &:focus {
+      outline: none;
+    }
+  }
